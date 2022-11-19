@@ -1,6 +1,6 @@
 
 <div> 
-    <img align=""           width="15%"     height="100%" src="./assets/commits.svg"/>
+    <img align=""           width="15%"     height="100%" src="./assets/commit.svg"/>
     <div>
         <img align=""       width="10%"     height="75px" src="./assets/ali.png"/>
         <img align=""       width="35%"     height="75px" src= "./assets/contributions.svg"/>
