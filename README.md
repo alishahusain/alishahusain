@@ -3,7 +3,7 @@
     <img align=""           width="15%"     height="100%" src="./assets/commit.svg"/>
     <div>
         <img align=""       width="75px"     height="75px" src="./assets/ali.png"/>
-        <img align=""       width="35%"     height="75px" src= "./assets/contributions.svg"/>
+        <img align=""       width="35%"     height="75px" src= "./assets/contribution.svg"/>
         <img align="right"  width="12.5%"   height="75px" src="./assets/grimLeaper.gif"/>
         <img align="right"  width="12.5%"   height="75px" src="./assets/rattata.gif"/>
         <img align="right"  width="12.5%"   height="75px" src="./assets/poke.gif"/>
