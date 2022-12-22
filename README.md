@@ -7,6 +7,7 @@
         <img align="right"  width="12.5%"   height="75px" src="./assets/grimLeaper.gif"/>
         <img align="right"  width="12.5%"   height="75px" src="./assets/rattata.gif"/>
         <img align="right"  width="12.5%"   height="75px" src="./assets/poke.gif"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishahusainh&layout=compact&theme=radical" />
     </div>
     <div>
         <img align=""       width="15%"    height="100%" src="./assets/visitor.svg"/> 
