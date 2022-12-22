@@ -7,8 +7,8 @@
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishahusain&layout=compact&theme=radical" />
     </div>
     <div>
-        <img align=""       width="15%"    height="100%" src="./assets/visitor.svg"/> 
-        <img align=""       width="10%"    height="100%" src="./assets/count.svg"/> 
+        <img align="left"       width="15%"    height="100%" src="./assets/visitor.svg"/> 
+        <img align="left"       width="10%"    height="100%" src="./assets/count.svg"/> 
         <img align=""       width="20%"    height="100%" src="https://profile-counter.glitch.me/alishahusain/count.svg"/>
     </div>
     <div>
