@@ -15,6 +15,12 @@
     </div>
     <div>
         <img align="left"   width="50%"    height="125px" src="https://streak-stats.demolab.com/?user=alishahusain&theme=tokyonight&border_radius=30&date_format=%5BY.%5Dn.j&width=100px" </img>
+        
+        </td><td align="top" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollybeach&layout=compact&theme=radical" width="500" />
+  
+</tr></tr></table> 
     </div>
         
 </div>
