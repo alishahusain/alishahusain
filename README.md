@@ -3,7 +3,7 @@
     <img align=""           width="15%"     height="100%" src="./assets/commit.svg"/>
     <div>
         <img align="left"       width="75px"    height="75px"src="./assets/bayla3.png"/>
-         <img align="left"       width="35%"     height="75px" src= "./assets/contribution.svg"/>
+         <img align="left"       width="35%"     height="75px" src= "./assets/contributions.svg"/>
         <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishahusain&layout=compact&theme=radical" />
     </div>
     <div>
